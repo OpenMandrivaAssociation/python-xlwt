@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   xlwt-0.7.5.tar.gz: 679ef6da3fff04b78a078e9c23fadee2786e81ca
+sources:
+  xlwt-1.0.0.tar.gz: 841bee39462008036b0ace5647bc3674d3c4654d
