@@ -7,7 +7,7 @@ Summary:	Library to create spreadsheet
 Source0:	http://pypi.python.org/packages/source/x/%{oname}/%{oname}-%{version}.tar.gz
 License:	BSD
 Group:		Development/Python
-Url:		http://www.python-excel.org/
+Url:		https://www.python-excel.org/
 BuildArch:	noarch
 BuildRequires:	python-setuptools
 BuildRequires:	python2-setuptools
